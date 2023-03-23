@@ -51,3 +51,6 @@ to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
 ## License
+These files are created by tkmsumi and are provided for personal use only.
+
+For any other use, please contact tkmsumi.

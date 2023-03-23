@@ -38,7 +38,7 @@ python example.py -c default.conf --network 64hilbert --mode neuron
 
 In case of neuron mode, please set several parameter such as cell density and connection probability.
 
-See **default.conf** or check the help. 
+See and change **default.conf** or check the help. 
 ```bash
 python example.py --help
 ```

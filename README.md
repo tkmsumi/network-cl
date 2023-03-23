@@ -24,13 +24,13 @@ python example.py -c default.conf
 ```
 
 
-Another network can be chosen from 4module, 16module, 64module or 64hilbert
+Another network can be chosen from 4module, 16module, 64module or 64hilbert.
 ```bash
 python example.py -c default.conf --network 64hilbert
 ```
 
 
-Also, you can select neuron mode to use neural network
+Also, you can select neuron mode to use neural network.
 ```bash
 python example.py -c default.conf --network 64hilbert --mode neuron
 ```
@@ -38,7 +38,7 @@ python example.py -c default.conf --network 64hilbert --mode neuron
 
 In case of neuron mode, please set several parameter such as cell density and connection probability.
 
-See **default.conf** or check the help 
+See **default.conf** or check the help. 
 ```bash
 python example.py --help
 ```

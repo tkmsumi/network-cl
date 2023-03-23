@@ -5,11 +5,11 @@ Caluculating the path length and clustering from graph and neural network.
 ## Installation
 1. Clone this repository in command line.
 ```bash
-git clone https://github.com/tkmsumi/Network_CL.git
+git clone https://github.com/tkmsumi/Network-CL.git
 ```
 2. Go into the repository.
 ```bash
-cd Network_CL
+cd Network-CL
 ```
 3. Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements.
 ```bash

@@ -1,7 +1,7 @@
 # Network-CL
 
-Caluculating the path length and clustering.
-
+Caluculating the path length and clustering from graph and neural network.
+![Test Image 1](image/Figure.png)
 ## Installation
 1. Clone this repository in command line.
 ```bash

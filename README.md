@@ -9,7 +9,7 @@ git clone https://github.com/tkmsumi/network-cl.git
 ```
 2. Go into the repository.
 ```bash
-cd Network-CL
+cd network-cl
 ```
 3. Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements.
 ```bash

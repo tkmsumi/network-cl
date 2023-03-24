@@ -1,11 +1,11 @@
-# Network-CL
+# network-cl
 
 Caluculating the path length and clustering from graph and neural network.
 ![Test Image 1](image/Figure.png)
 ## Installation
 1. Clone this repository in command line.
 ```bash
-git clone https://github.com/tkmsumi/Network-CL.git
+git clone https://github.com/tkmsumi/network-cl.git
 ```
 2. Go into the repository.
 ```bash
